@@ -8,7 +8,7 @@ module.exports = {
       process.stdout.write('Ok. Bye!\n')
       process.exit();
     }else if (input === 'Hisham') {
-      process.stdout.write('bOadh! The Indian  very bad indian you like tandory!\n')
+      process.stdout.write('bOadh! The Indian bloody indian bloody!\n')
       process.exit();
     }
     if (!numbers.includes(input)) {
